@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+    font-family: -system-ui, Verdana, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    padding: 5px 20px;
+    background: #eee;
+}
+
+.subheader {
+    padding: 5px 10px 5px 20px;
+    color: #bbb;
+}
+
+.main-block {
+    margin: 0 50px;
+}
